@@ -1,1 +1,1 @@
-# smartpedfeeder
+# smartpetfeeder
